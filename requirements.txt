@@ -7,7 +7,7 @@ graphviz==0.13
 PyQt5==5.13.1
 PyQt5-sip==12.7.0
 pytz==2019.3
-requests==2.7.0
+requests==2.20.0
 selenium==3.141.0
 sqlparse==0.3.0
 urllib3==1.25.6
